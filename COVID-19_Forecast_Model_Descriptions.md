@@ -151,8 +151,7 @@
 
 **Model name:** GT-CHHS
 
-**Intervention Assumptions:** 
-- This model assumes that that once stay-at-home orders are lifted, contact rates will gradually increase. It also assumes that some households containing symptomatic cases will self-quarantine.
+**Intervention Assumptions:** This model assumes that that once stay-at-home orders are lifted, contact rates will gradually increase. It also assumes that some households containing symptomatic cases will self-quarantine.
 
 **Methods:** Agent-based model
 
@@ -176,9 +175,7 @@
 
 **Model name:** Imperial
 
-**Intervention Assumptions:** 
-
-- These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
+**Intervention Assumptions:** These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
 
 **Methods:** Ensembles of mechanistic transmission models, fit to different parameter assumptions
 
@@ -189,9 +186,9 @@
 
 **Model name**: IHME
 
-**Intervention Assumptions:** 
-- Projections are adjusted to reflect differences in aggregate population mobility and community mitigation policies.
-- Daily hospitalizations are estimated from predictions of daily deaths, using state hospitalization rates, where available.
+**Intervention Assumptions:** Projections are adjusted to reflect differences in aggregate population mobility and community mitigation policies.
+
+**Hospitalization assumptions:** Daily hospitalizations are estimated from predictions of daily deaths, using state hospitalization rates, where available.
 
 **Methods:** Combination of a mechanistic disease transmission model and a curve-fitting approach
 
