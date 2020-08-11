@@ -210,8 +210,7 @@
 
 **Model name:** JCB
 
-**Intervention Assumptions:** 
-- The incidence of COVID-19 in the population determines the strength of and resulting impact of control measures in the future.
+**Intervention Assumptions:** The incidence of COVID-19 in the population determines the strength of and resulting impact of control measures in the future.
 
 **Methods:** Phenomenological statistical model
 
@@ -235,16 +234,16 @@
 
 **Model name:*** Karlen
 
-***Intervention assumptions:***
-- This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
-- The model uses state-specific hospitalization data. New hospitalizations are estimated from these data, or from the estimated number of new infections that will occur in each location.
+**Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
 
-***Methods:*** Discrete time difference equations
+**Hospitalization assumptions:** The model uses state-specific hospitalization data. New hospitalizations are estimated from these data, or from the estimated number of new infections that will occur in each location.
+
+**Methods:** Discrete time difference equations
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [LockNQuay](https://www.kaggle.com/sasrdw/locknquay)<a name="Karlen"/>
+### [LockNQuay](https://www.kaggle.com/sasrdw/locknquay) <a name="LNQ-ens1"/>
 
 **Model name:** LNQ-ens1
 
@@ -329,7 +328,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Oliver Wyman](https://pandemicnavigator.oliverwyman.com/) <a name="Oliver Wyman">
+### [Oliver Wyman](https://pandemicnavigator.oliverwyman.com/) <a name="OliverWyman">
 
 **Model name:** Oliver Wyman
 
