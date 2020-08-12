@@ -1,13 +1,14 @@
 ## Models
 
 - [Auquan Data Science](#Auquan)
+- [Berkeley Yu Group](#Yu_Group)
 - [Carnegie Mellon University](#CMU)
 - [Center for Disease Dynamics, Economics & Policy](#CDDEP)
 - [Columbia University](#Columbia)
 - [Columbia University and University of North Carolina](#Columbia-UNC)
 - [Covid-19 Simulator Consortium](#Covid19Sim)
 - [Covid Act Now](#CAN)
-- [Discrete Dynamical Systems](#DDS-NBDS)
+- [Discrete Dynamical Systems](#DDS)
 - [Georgia Institute of Technology, Center for Health and Humanitarian Systems](#GT-CHHS)
 - [Georgia Institute of Technology, College of Computing](#GT-DeepCOVID)
 - [Imperial College, London](#Imperial)
@@ -16,7 +17,7 @@
 - [John Burant](#JCB)
 - [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU)
 - [Karlen Working Group](#Karlen)
-- [LockNQuay](#LNQ-ens1)
+- [LockNQuay](#LNQ)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
@@ -24,6 +25,7 @@
 - [Northeastern](#MOBS)
 - [Notre Dame University](#NotreDame)
 - [Oliver Wyman](#OliverWyman)
+- [Pandemic Central](#PandemicCentral)
 - [Predictive Science Inc.](#PSI)
 - [Qi-Jun Hong](#QJHong)
 - [Rensselaer Polytechnic Institute and University of Washington](#RPI-UW)
@@ -42,6 +44,7 @@
 - [US Army Engineering Research and Development Center](#ERDC)
 - [Youyang Gu (COVID-Projections)](#YYG)
 
+
 ## Model Descriptions
 
 ### [Auquan Data Science](https://covid19-infection-model.auquan.com/) <a name="Auquan"/>
@@ -55,6 +58,17 @@
 **Forecasts submitted:** Deaths
 
 
+### [Berkeley Yu Group](covidseverity.com) <a name="Yu_Group"/>
+
+**Model name:** Yu_Group
+
+**Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.  
+
+**Methods:** Ensemble of combined linear and exponential predictors (CLEP)
+
+**Forecasts submitted:** Cases
+
+
 ### [Carnegie Mellon University](https://delphi.cmu.edu/) <a name="CMU"/>
 
 **Model name:**  CMU
@@ -63,7 +77,7 @@
 
 **Methods:**  Autoregressive time-series model
 
-**Forecasts submitted:** Deaths
+**Forecasts submitted:** Cases, deaths
 
 
 ### [Center for Disease Dynamics, Economics & Policy](https://cddep.org/) <a name="CDDEP"/>
@@ -243,9 +257,9 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [LockNQuay](https://www.kaggle.com/sasrdw/locknquay) <a name="LNQ-ens1"/>
+### [LockNQuay](https://www.kaggle.com/sasrdw/locknquay) <a name="LNQ"/>
 
-**Model name:** LNQ-ens1
+**Model name:** LNQ
 
 **Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
 
@@ -316,7 +330,7 @@
 **Model names:** 
   
 - NotreDame-Mobility
-- NotreDame-FRED (state-level forecasts only)
+- NotreDame-FRED
 
 **Intervention assumptions:** These forecasts assume that population-level mobility is a reliable proxy for adherence to social distancing, and that recent trends in mobility will continue over the coming weeks.
 
@@ -337,6 +351,17 @@
 **Methods:** Time-dependent SIR model for detected and undetected cases
 
 **Forecasts submitted:** Cases, deaths
+
+
+### [Pandemic Central](https://itsonit.com) <a name="PandemicCentral">
+
+**Model name:** PandemicCentral
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Random forest machine learning model
+
+**Forecasts submitted:** Cases
 
 
 ### [Predictive Science Inc.](https://github.com/predsci/DRAFT) <a name="PSI">
@@ -520,7 +545,7 @@
 
 **Methods:** This forecast is an ensemble of three different models: An auto-regressive model, a machine learning (long short-memory) model, and a SEIR model.
 
-**Forecasts submitted:** Cases, deaths
+**Forecasts submitted:** Cases
 
 
 ### [US Army Engineering Research and Development Center](https://github.com/erdc-cv19/covid19-forecast-hub) <a name="ERDC"/>
