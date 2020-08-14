@@ -171,7 +171,7 @@
 
 **Methods:** Deep learning
 
-**Forecasts submitted:** Deaths, and hospitalizations
+**Forecasts submitted:** Hospitalizations, deaths
 
 
 ### [Imperial College, London](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html) <a name="Imperial"/>
