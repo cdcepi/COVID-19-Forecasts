@@ -58,7 +58,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Berkeley Yu Group](covidseverity.com) <a name="Yu_Group"/>
+### [Berkeley Yu Group](https://covidseverity.com/) <a name="Yu_Group"/>
 
 **Model name:** Yu_Group
 
@@ -128,17 +128,6 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [Discrete Dynamical Systems](https://dds-covid19.github.io/index.html) <a name="DDS"/>
-
-**Model name:** DDS
-
-**Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
-
-**Methods:** Bayesian hierarchical model
-
-**Forecasts submitted:** Cases, deaths, hospitalizations
-
-
 ### [Covid Act Now](https://covidactnow.org/) <a name="CAN"/>
 
 **Model name:** CAN
@@ -147,18 +136,18 @@
 
 **Methods:** Fitted SEIR model
 
-**Forecasts submitted:** Deaths
+**Forecasts submitted:** Hosptializations, deaths
 
 
-### [Discrete Dynamical Systems](https://dds-covid19.github.io/index.html) <a name="DDS-NBDS"/> 
+### [Discrete Dynamical Systems](https://dds-covid19.github.io/index.html) <a name="DDS"/>
 
-**Model name:** DDS-NBDS
+**Model name:** DDS
 
 **Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
 
 **Methods:** Bayesian hierarchical model
 
-**Forecasts submitted:** Cases
+**Forecasts submitted:** Cases, deaths
 
 
 ### [Georgia Institute of Technology, Center for Health and Humanitarian Systems](https://github.com/pkeskinocak/COVID19GA) <a name="GT-CHHS"/>
@@ -217,10 +206,10 @@
 
 **Methods:** Nonparametric spatiotemporal model
 
-**Forecasts submitted:** Cases, hospitalizations, deaths
+**Forecasts submitted:** Cases, deaths
 
 
-### [John Burant](https:/github.com/JohnBurant/COVID19-PRM) <a name="JCB"/>
+### [John Burant](https://github.com/JohnBurant/COVID19-PRM/) <a name="JCB"/>
 
 **Model name:** JCB
 
@@ -231,7 +220,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Johns Hopkins University](https:/github.com/HopkinsIDD/COVIDScenarioPipeline) <a name="JHU"/>
+### [Johns Hopkins University](https://github.com/HopkinsIDD/COVIDScenarioPipeline/) <a name="JHU"/>
 
 **Model name:** JHU
 
@@ -246,7 +235,7 @@
 
 ### [Karlen Working Group](https://pypm.github.io/home/) <a name="Karlen"/>
 
-**Model name:*** Karlen
+**Model name:** Karlen
 
 **Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
 
@@ -325,12 +314,12 @@
 **Forecasts submitted:** Deaths
 
 
-### [Notre Dame University](https://github.com/confunguido/covid19_ND_forecasting) <a name="NotreDame"/>
+### [Notre Dame University] <a name="NotreDame"/>
 
 **Model names:** 
   
-- NotreDame-Mobility
-- NotreDame-FRED
+- [NotreDame-Mobility](https://github.com/TAlexPerkins/covid19_NDmobility_forecasting/)
+- [NotreDame-FRED](https://github.com/confunguido/covid19_ND_forecasting/)
 
 **Intervention assumptions:** These forecasts assume that population-level mobility is a reliable proxy for adherence to social distancing, and that recent trends in mobility will continue over the coming weeks.
 
@@ -425,7 +414,7 @@
 
 **Intervention assumptions:** This model assumes that current interventions will remain in effect for at least four weeks after the forecasts are made.
 
-**Methods:** SIR mechanistic model with data assimilation
+**Methods:** SIR model with data assimilation
 
 **Forecasts submitted:** Deaths
 
@@ -440,7 +429,7 @@
 
 **Methods:** Modified SEIR model
 
-**Forecasts submitted:** Cases, deaths
+**Forecasts submitted:** Cases, hospitalizations, deaths
 
 
 ### [University of California, Merced](https://mechatronics.ucmerced.edu/covid19) <a name="UCM"/>
@@ -465,7 +454,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [University of Georgia, Center for the Ecology of Infectious Disease](https://https://github.com/e3bo/random-walks) <a name="UGA-CEID"/>
+### [University of Georgia, Center for the Ecology of Infectious Disease](https://github.com/e3bo/random-walks) <a name="UGA-CEID"/>
 
 **Model name:** UGA-CEID
 
@@ -474,8 +463,6 @@
 **Methods:** Statistical random walk model
 
 **Forecasts submitted:** Cases and deaths
-
-
 
 
 ### [University of Geneva / Swiss Data Science Center](https://renkulab.shinyapps.io/COVID-19-Epidemic-Forecasting/) (one-week ahead forecasts only) <a name="Geneva"/>
@@ -567,7 +554,7 @@
 
 **Intervention assumptions:** The model accounts for individual state-by-state re-openings and responses to increasing cases and their impact on infections and deaths.
 
-**Methods:** SEIS mechanistic model
+**Methods:** SEIS model
 
 **Forecasts submitted:** Deaths
 
