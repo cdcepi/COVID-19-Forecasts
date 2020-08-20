@@ -11,6 +11,7 @@
 - [Discrete Dynamical Systems](#DDS)
 - [Georgia Institute of Technology, Center for Health and Humanitarian Systems](#GT-CHHS)
 - [Georgia Institute of Technology, College of Computing](#GT-DeepCOVID)
+- [Google and Harvard School of Public Health](#Google-HSPH)
 - [Imperial College, London](#Imperial)
 - [Institute of Health Metrics and Evaluation](#IHME)
 - [Iowa State University](#ISU)
@@ -31,6 +32,7 @@
 - [Rensselaer Polytechnic Institute and University of Washington](#RPI-UW)
 - [Robert Walraven](#ESG)
 - [Steve Hortman](#STH)
+- [Texas Tech University](#TTU)
 - [University of Arizona](#UA)
 - [University of California, Los Angeles](#UCLA)
 - [University of Chicago](#UChicago)
@@ -115,7 +117,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [Covid-19 Simulator Constorium](https://www.covid19sim.org/) <a name="Covid19Sim"/>
+### [Covid-19 Simulator Consortium](https://www.covid19sim.org/) <a name="Covid19Sim"/>
 
 **Model name:** Covid19Sim
 
@@ -136,7 +138,7 @@
 
 **Methods:** Fitted SEIR model
 
-**Forecasts submitted:** Hosptializations, deaths
+**Forecasts submitted:** Hospitalizations, deaths
 
 
 ### [Discrete Dynamical Systems](https://dds-covid19.github.io/index.html) <a name="DDS"/>
@@ -172,6 +174,17 @@
 **Methods:** Deep learning
 
 **Forecasts submitted:** Hospitalizations, deaths
+
+
+### [Google and Harvard School of Public Health](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-releasing-the-covid-19-public-forecasts/)<a name="Google-HSPH/">
+
+**Model name:** Google-HSPH
+
+**Intervention assumptions:** These forecasts use an autoregressive model to predictive future levels of population mobility, which is then used to predict transmission intensity.
+
+**Methods:**  SEIR model fit with machine learning
+
+**Forecasts submitted:** Deaths
 
 
 ### [Imperial College, London](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html) <a name="Imperial"/>
@@ -314,7 +327,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Notre Dame University] <a name="NotreDame"/>
+### Notre Dame University <a name="NotreDame"/>
 
 **Model names:** 
   
@@ -406,6 +419,17 @@
 **Methods:** Statistical growth model
 
 **Forecasts submitted:** Deaths
+
+
+### [Texas Tech University](https://github.com/fvbttu/squider/)<a name="TTU"/>
+
+**Model name:** TTU
+
+**Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** SIR model
+
+**Forecasts submitted:** Cases
 
 
 ### [University of Arizona](https://jocelinelega.github.io/EpiGro/) <a name="UA"/>
