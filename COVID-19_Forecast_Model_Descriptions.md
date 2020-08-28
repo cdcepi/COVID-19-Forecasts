@@ -585,7 +585,7 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [Walmart Labs Data Science Team] (https://github.com/ivan-ji-walmart/covid19-forecast-hub)<a name="Walmart"/>
+### [Walmart Labs Data Science Team](https://github.com/ivan-ji-walmart/covid19-forecast-hub) <a name="Walmart"/>
 
 **Model name:** Walmart
 
