@@ -15,6 +15,7 @@
 - [Imperial College, London](#Imperial)
 - [Institute of Health Metrics and Evaluation](#IHME)
 - [Iowa State University](#ISU)
+- [IQVIA Analytics Center of Excellence](#IQVIA)
 - [John Burant](#JCB)
 - [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU)
 - [Karlen Working Group](#Karlen)
@@ -44,6 +45,7 @@
 - [University of Texas, Austin](#UT)
 - [University of California, Los Angeles](#UCLA)
 - [US Army Engineering Research and Development Center](#ERDC)
+- [Walmart Labs Data Science Team] (#Walmart)
 - [Youyang Gu (COVID-Projections)](#YYG)
 
 
@@ -176,7 +178,7 @@
 **Forecasts submitted:** Hospitalizations, deaths
 
 
-### [Google and Harvard School of Public Health](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-releasing-the-covid-19-public-forecasts/)<a name="Google-HSPH/">
+### [Google and Harvard School of Public Health](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-releasing-the-covid-19-public-forecasts/)<a name="Google-HSPH"/>
 
 **Model name:** Google-HSPH
 
@@ -220,6 +222,17 @@
 **Methods:** Nonparametric spatiotemporal model
 
 **Forecasts submitted:** Cases, deaths
+
+
+### [IQVIA Analytics Center of Excellence](https://www.iqvia.com/landing/analytics-center-of-excellence/)<a name="IQVIA"/>
+
+**Model name:** IQVIA
+
+**Intervention Assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** Spatiotemporal attention network model
+
+**Forecasts submitted:** Cases
 
 
 ### [John Burant](https://github.com/JohnBurant/COVID19-PRM/) <a name="JCB"/>
@@ -572,13 +585,24 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [Youyang Gu (COVID-Projections)](https://covid19-projections.com/about/) <a name="YYG"/>
+### [Walmart Labs Data Science Team] (https://github.com/ivan-ji-walmart/covid19-forecast-hub)<a name="Walmart"/>
+
+**Model name:** Walmart
+
+**Intervention assumptions:** These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
+
+**Methods:** Logistic growth
+
+**Forecasts submitted:** Deaths
+
+
+### [Youyang Gu (COVID-Projections)](www.covid19-projections.com/) <a name="YYG"/>
 
 **Model name:** YYG
 
 **Intervention assumptions:** The model accounts for individual state-by-state re-openings and responses to increasing cases and their impact on infections and deaths.
 
-**Methods:** SEIS model
+**Methods:** SEIR model with machine learning for parameter estimation
 
 **Forecasts submitted:** Deaths
 
