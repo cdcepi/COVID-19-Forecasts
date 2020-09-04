@@ -17,7 +17,8 @@
 - [Iowa State University](#ISU)
 - [IQVIA Analytics Center of Excellence](#IQVIA)
 - [John Burant](#JCB)
-- [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU)
+- [Johns Hopkins University, Applied Physics Lab](#JHU_APL)
+- [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU_IDD)
 - [Karlen Working Group](#Karlen)
 - [LockNQuay](#LNQ)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
@@ -45,7 +46,7 @@
 - [University of Texas, Austin](#UT)
 - [University of California, Los Angeles](#UCLA)
 - [US Army Engineering Research and Development Center](#ERDC)
-- [Walmart Labs Data Science Team] (#Walmart)
+- [Walmart Labs Data Science Team](#Walmart)
 - [Youyang Gu (COVID-Projections)](#YYG)
 
 
@@ -246,9 +247,20 @@
 **Forecasts submitted:** Deaths
 
 
-### [Johns Hopkins University](https://github.com/HopkinsIDD/COVIDScenarioPipeline/) <a name="JHU"/>
+### [Johns Hopkins University, Applied Physics Lab](https://buckymodel.com/) <a name="JHU_APL"/>
 
-**Model name:** JHU
+**Model name:** JHU_APL
+
+**Intervention Assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** Metapopulation SEIR model
+
+**Forecasts submitted:** Cases, deaths
+
+
+### [Johns Hopkins University, Infectious Disease Dynamic Lab](https://github.com/HopkinsIDD/COVIDScenarioPipeline/) <a name="JHU_IDD"/>
+
+**Model name:** JHU_IDD
 
 **Intervention Assumptions:** This model assumes that the effectiveness of interventions is reduced after shelter-in-place orders are lifted.
 
