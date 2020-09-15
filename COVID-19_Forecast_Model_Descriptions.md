@@ -13,6 +13,7 @@
 - [Georgia Institute of Technology, College of Computing](#GT-DeepCOVID)
 - [Google and Harvard School of Public Health](#Google-HSPH)
 - [Imperial College, London](#Imperial)
+- [Institute for Business Forecasting](#IBF)
 - [Institute of Health Metrics and Evaluation](#IHME)
 - [Iowa State University](#ISU)
 - [IQVIA Analytics Center of Excellence](#IQVIA)
@@ -24,6 +25,7 @@
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
+- [Massachusetts Institute of Technology, Laboratory for Computational Physiology](#MIT-LCP)
 - [Massachusetts Institute of Technology, Operations Research Center](#MIT-ORC)
 - [Northeastern](#MOBS)
 - [Notre Dame University](#NotreDame)
@@ -37,6 +39,7 @@
 - [Texas Tech University](#TTU)
 - [University of Arizona](#UA)
 - [University of California, Los Angeles](#UCLA)
+- [University of California, San Diego and Northeastern University](#UCSD-NEU)
 - [University of Chicago](#UChicago)
 - [University of Georgia, Center for the Ecology of Infectious Disease](#UGA-CEID)
 - [University of Geneva / Swiss Data Science Center](#Geneva)
@@ -201,6 +204,17 @@
 **Forecasts submitted:** Deaths
 
 
+### [Institute for Business Forecasting](http://demand-planning.com/2020/05/01/coronavirus-forecasts-2/)<a name="IBF"/>
+
+**Model name:** IBF
+
+**Intervention Assumptions:** These projections do not make specific assumptions about which interventions have been implemented or will remain in place.
+
+**Methods:** Combination of a mechanistic disease transmission model and a curve-fitting approach
+
+**Forecasts submitted:** Cases, deaths
+
+
 ### [Institute of Health Metrics and Evaluation](https://covid19.healthdata.org/united-states-of-america) <a name="IHME"/>
 
 **Model name**: IHME
@@ -328,6 +342,17 @@
 **Methods:** SIR model 
 
 **Forecasts submitted:** Cases, deaths 
+
+
+### [Massachusetts Institute of Technology, Laboratory of Computational Physiology](https://github.com/sakethsundar/covid-forecaster/) <a name="MIT-LCP"/>
+
+**Model name:** MIT-LCP
+
+**Intervention Assumptions:** The projections assume that current interventions will remain in place indefinitely.
+
+**Methods:** Machine learning
+
+**Forecasts submitted:** Deaths
 
 
 ### [Massachusetts Institute of Technology, Operations Research Center](https://www.covidanalytics.io/projections) <a name="MIT-ORC"/>
@@ -488,6 +513,17 @@
 **Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
 
 **Methods:**  SEIR model
+
+**Forecasts submitted:** Deaths
+
+
+### [University of California, San Diego and Northeastern University](https://sites.google.com/view/yianma/epidemiology/)<a name="UCSD-NEU"/>
+
+**Model name:** UCSD-NEU
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Age-structured metapopulation model with deep learning
 
 **Forecasts submitted:** Deaths
 
