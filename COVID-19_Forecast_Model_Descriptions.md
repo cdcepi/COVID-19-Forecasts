@@ -269,7 +269,7 @@
 
 **Methods:** Metapopulation SEIR model
 
-**Forecasts submitted:** Cases, deaths
+**Forecasts submitted:** Cases, hospitalizations, deaths
 
 
 ### [Johns Hopkins University, Infectious Disease Dynamic Lab](https://github.com/HopkinsIDD/COVIDScenarioPipeline/) <a name="JHU_IDD"/>
