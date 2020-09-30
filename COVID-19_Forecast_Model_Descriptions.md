@@ -186,11 +186,11 @@
 
 **Model name:** Google-HSPH
 
-**Intervention assumptions:** These forecasts use an autoregressive model to predictive future levels of population mobility, which is then used to predict transmission intensity.
+**Intervention assumptions:** These forecasts implement changes to future population mobility in order to predict COVID-19 transmission intensity.
 
 **Methods:**  SEIR model fit with machine learning
 
-**Forecasts submitted:** Deaths
+**Forecasts submitted:** Cases, hospitalizations, deaths
 
 
 ### [Imperial College, London](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html) <a name="Imperial"/>
