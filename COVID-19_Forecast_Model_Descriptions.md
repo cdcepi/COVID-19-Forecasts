@@ -18,8 +18,9 @@
 - [Iowa State University](#ISU)
 - [IQVIA Analytics Center of Excellence](#IQVIA)
 - [John Burant](#JCB)
-- [Johns Hopkins University, Applied Physics Lab](#JHU_APL)
-- [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU_IDD)
+- [Johns Hopkins University, Applied Physics Lab](#JHU-APL)
+- [Johns Hopkins University, Center for Systems Science and Engineering](#JHU-CSSE)
+- [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU-IDD)
 - [Karlen Working Group](#Karlen)
 - [LockNQuay](#LNQ)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
@@ -261,9 +262,9 @@
 **Forecasts submitted:** Deaths
 
 
-### [Johns Hopkins University, Applied Physics Lab](https://buckymodel.com/) <a name="JHU_APL"/>
+### [Johns Hopkins University, Applied Physics Lab](https://buckymodel.com/) <a name="JHU-APL"/>
 
-**Model name:** JHU_APL
+**Model name:** JHU-APL
 
 **Intervention Assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
 
@@ -272,9 +273,20 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [Johns Hopkins University, Infectious Disease Dynamic Lab](https://github.com/HopkinsIDD/COVIDScenarioPipeline/) <a name="JHU_IDD"/>
+### [Johns Hopkins University,  Center for Systems Science and Engineering](https://systems.jhu.edu/research/public-health/predicting-covid-19-risk/) <a name="JHU-CSSE"/>
 
-**Model name:** JHU_IDD
+**Model name:** JHU-CSSE
+
+**Intervention Assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Machine learning
+
+**Forecasts submitted:** Cases, deaths
+
+
+### [Johns Hopkins University, Infectious Disease Dynamic Lab](https://github.com/HopkinsIDD/COVIDScenarioPipeline/) <a name="JHU-IDD"/>
+
+**Model name:** JHU-IDD
 
 **Intervention Assumptions:** This model assumes that the effectiveness of interventions is reduced after shelter-in-place orders are lifted.
 
@@ -460,7 +472,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [Steve Horstman](http://public.tableau.com/profile/covid19model#!/vizhome/COVID-19DeathProjections/USDeaths) <a name="STH">
+### [Steve Horstman](https://public.tableau.com/profile/covid19model#!/vizhome/COVID-19DeathProjections/LatestUSStateCOVID-19DeathModels/) <a name="STH">
 
 **Model name:** STH
 
