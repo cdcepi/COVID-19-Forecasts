@@ -2,6 +2,7 @@
 
 - [Auquan Data Science](#Auquan)
 - [Berkeley Yu Group](#Yu_Group)
+- [Bob Pagano](#BPagano)
 - [Carnegie Mellon University](#CMU)
 - [Center for Disease Dynamics, Economics & Policy](#CDDEP)
 - [Columbia University](#Columbia)
@@ -28,6 +29,7 @@
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
 - [Massachusetts Institute of Technology, Laboratory for Computational Physiology](#MIT-LCP)
 - [Massachusetts Institute of Technology, Operations Research Center](#MIT-ORC)
+- [Microsoft Research, Asia](#MSRA)
 - [Northeastern](#MOBS)
 - [Notre Dame University](#NotreDame)
 - [Oliver Wyman](#OliverWyman)
@@ -76,6 +78,17 @@
 **Methods:** Ensemble of combined linear and exponential predictors (CLEP)
 
 **Forecasts submitted:** Cases
+
+
+### [Bob Pagano](https://bobpagano.com/)<a name="BPagano"/>
+
+**Model name:** BPagano
+
+**Intervention assumptions:** These projections assume that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** SIR model
+
+**Forecasts submitted:** Deaths
 
 
 ### [Carnegie Mellon University](https://delphi.cmu.edu/) <a name="CMU"/>
@@ -376,6 +389,17 @@
 **Methods:** SEIR model 
 
 **Forecasts submitted:** Cases, deaths
+
+
+### [Microsoft Research, Asia](https://covid.msra.cn/) <a name="MSRA"/>
+
+**Model name:** MSRA
+
+**Intervention Assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** SEIR model on a spatiotemporal network
+
+**Forecasts submitted:** Deaths
 
 
 ### [Northeastern University, Laboratory for the Modeling of Biological and Socio-technical Systems](https://covid19.gleamproject.org/) <a name="MOBS"/>
