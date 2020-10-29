@@ -42,7 +42,9 @@
 - [Texas Tech University](#TTU)
 - [University of Arizona](#UA)
 - [University of California, Los Angeles](#UCLA)
+- [University of California, Merced](#UCM)
 - [University of California, San Diego and Northeastern University](#UCSD-NEU)
+- [University of California, Santa Barbara](#UCSB)
 - [University of Chicago](#UChicago)
 - [University of Georgia, Center for the Ecology of Infectious Disease](#UGA-CEID)
 - [University of Geneva / Swiss Data Science Center](#Geneva)
@@ -50,7 +52,6 @@
 - [University of Michigan](#UM)
 - [University of Southern California](#USC)
 - [University of Texas, Austin](#UT)
-- [University of California, Los Angeles](#UCLA)
 - [US Army Engineering Research and Development Center](#ERDC)
 - [Walmart Labs Data Science Team](#Walmart)
 - [Youyang Gu (COVID-Projections)](#YYG)
@@ -562,6 +563,19 @@
 **Methods:** Age-structured metapopulation model with deep learning
 
 **Forecasts submitted:** Deaths
+
+
+### [University of California, Santa Barbara](https://github.com/Gandor26/covid-open/)<a name="UCSB"/>
+
+**Model name:** UCSB
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Hospitalization Assumptions:** The number of new hospitalizations per day are estimated from the number of infections, using state-specific hospitalization rates.
+
+**Methods:** An attention mechanism (deep learning) time series model
+
+**Forecasts submitted:** Cases, hospitalizations, deaths
 
 
 ### [University of Chicago](https://github.com/cobeylab/covid_IL) (forecasts for Illinois only) <a name="UChicago"/>
