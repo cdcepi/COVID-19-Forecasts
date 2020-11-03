@@ -118,7 +118,7 @@
 
 **Model name:** Columbia
 
-**Intervention assumptions:** This model assumes that contact rates will increase 5% per week over the next two weeks. The reproductive number is then set to 1 for the remainder of the projection period.
+**Intervention assumptions:** This model assumes that contact rates will increase 5% during the first week of the forecast period. Following week 1, the reproductive number is then set to 1.0.
 
 **Hospitalization assumptions:** The model uses state-specific hospitalization data, when available. In states without hospitalization data, the model uses the national average value for hospitalization data.
 
@@ -670,7 +670,7 @@
 **Forecasts submitted:** Cases
 
 
-### [US Army Engineering Research and Development Center](https://github.com/erdc-cv19/covid19-forecast-hub) <a name="ERDC"/>
+### [US Army Engineering Research and Development Center](https://github.com/erdc-cv19/seir-model/) <a name="ERDC"/>
 
 **Model name:** ERDC
 
