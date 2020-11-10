@@ -22,6 +22,7 @@
 - [Johns Hopkins University, Applied Physics Lab](#JHU-APL)
 - [Johns Hopkins University, Center for Systems Science and Engineering](#JHU-CSSE)
 - [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU-IDD)
+- [Johns Hopkins University, the University of North Carolina, and Google](#JHU-UNC-Google)
 - [Karlen Working Group](#Karlen)
 - [LockNQuay](#LNQ)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
@@ -309,6 +310,17 @@
 **Methods:** Metapopulation SEIR model
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
+
+
+### [Johns Hopkins University, University of North Carolina, and Google](https://github.com/HopkinsIDD/EpiForecastStatMech/) <a name="JHU-UNC-Google"/>
+
+**Model name:** JHU-UNC-Google
+
+**Intervention Assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** This forecast is an ensemble of two different models: A multiplicative growth model and a curve fitting model.
+
+**Forecasts submitted:** Cases, deaths
 
 
 ### [Karlen Working Group](https://pypm.github.io/home/) <a name="Karlen"/>
