@@ -46,6 +46,7 @@
 - [University of California, Merced](#UCM)
 - [University of California, San Diego and Northeastern University](#UCSD-NEU)
 - [University of California, Santa Barbara](#UCSB)
+- [University of Central Florida](#UCF)
 - [University of Chicago](#UChicago)
 - [University of Georgia, Center for the Ecology of Infectious Disease](#UGA-CEID)
 - [University of Geneva / Swiss Data Science Center](#Geneva)
@@ -588,6 +589,17 @@
 **Methods:** An attention mechanism (deep learning) time series model
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
+
+
+### [University of Central Florida](https://github.com/UCF-AEM/UCF-AEM)<a name="UCF"/>
+
+**Model name:** UCF
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** SEIR model informed with with ensemble neural networks 
+
+**Forecasts submitted:** Cases
 
 
 ### [University of Chicago](https://github.com/cobeylab/covid_IL) (forecasts for Illinois only) <a name="UChicago"/>
