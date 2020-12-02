@@ -667,9 +667,11 @@
 
 **Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
 
+**Hospitalization assumptions:** The number of new hospitalizations per day are estimated from the number of infections.
+
 **Methods:** SIR model
 
-**Forecasts submitted:** Cases, deaths
+**Forecasts submitted:** Cases, hospitalizations, deaths
 
 
 ### [University of Texas, Austin](https://covid-19.tacc.utexas.edu/projections/) <a name="UT"/>
