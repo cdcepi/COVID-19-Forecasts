@@ -13,6 +13,7 @@
 - [Georgia Institute of Technology, Center for Health and Humanitarian Systems](#GT-CHHS)
 - [Georgia Institute of Technology, College of Computing](#GT-DeepCOVID)
 - [Google and Harvard School of Public Health](#Google-HSPH)
+- [IEM](#IEM)
 - [Imperial College, London](#Imperial)
 - [Institute for Business Forecasting](#IBF)
 - [Institute of Health Metrics and Evaluation](#IHME)
@@ -34,6 +35,7 @@
 - [Northeastern](#MOBS)
 - [Notre Dame University](#NotreDame)
 - [Oliver Wyman](#OliverWyman)
+- [OneQuietNight](#OneQuietNight)
 - [Pandemic Central](#PandemicCentral)
 - [Predictive Science Inc.](#PSI)
 - [Qi-Jun Hong](#QJHong)
@@ -55,6 +57,7 @@
 - [University of Southern California](#USC)
 - [University of Texas, Austin](#UT)
 - [US Army Engineering Research and Development Center](#ERDC)
+- [Wadhwani AI](#Wadhwani)
 - [Walmart Labs Data Science Team](#Walmart)
 - [Youyang Gu (COVID-Projections)](#YYG)
 
@@ -208,6 +211,17 @@
 **Methods:**  SEIR model fit with machine learning
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
+
+
+### [IEM](https://iem-modeling.com/)<a name="IEM">
+
+**Model name:** IEM
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** SEIR model with machine learning.
+
+**Forecasts submitted:** Cases
 
 
 ### [Imperial College, London](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html) <a name="Imperial"/>
@@ -453,6 +467,17 @@
 **Methods:** Time-dependent SIR model for detected and undetected cases
 
 **Forecasts submitted:** Cases, deaths
+
+
+### [OneQuietNight](https://github.com/One-Quiet-Night/COVID-19-forecast/)<a name="OneQuietNight">
+
+**Model name:** OneQuietNight
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Machine learning models.
+
+**Forecasts submitted:** Cases
 
 
 ### [Pandemic Central](https://itsonit.com) <a name="PandemicCentral">
@@ -718,6 +743,17 @@
 **Methods:** Logistic growth
 
 **Forecasts submitted:** Deaths
+
+
+### [Wadhwani AI](https://www.wadhwaniai.org/)<a name="Wadhwani">
+
+**Model name:** Wadhwani
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Bayesian SEIR model
+
+**Forecasts submitted:** Cases, deaths
 
 
 ### [Youyang Gu (COVID-Projections)](www.covid19-projections.com/) <a name="YYG"/>
