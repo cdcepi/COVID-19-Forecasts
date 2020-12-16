@@ -31,7 +31,7 @@
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
 - [Massachusetts Institute of Technology, Laboratory for Computational Physiology](#MIT-LCP)
 - [Massachusetts Institute of Technology, Operations Research Center](#MIT-ORC)
-- [Microsoft Research, Asia](#MSRA)
+- [Microsoft AI](#Microsoft)
 - [Northeastern](#MOBS)
 - [Notre Dame University](#NotreDame)
 - [Oliver Wyman](#OliverWyman)
@@ -419,9 +419,9 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [Microsoft Research, Asia](https://covid.msra.cn/) <a name="MSRA"/>
+### [Microsoft AI](https://www.microsoft.com/en-us/ai/ai-for-health/) <a name="Microsoft"/>
 
-**Model name:** MSRA
+**Model name:** Microsoft (formerly: MSRA)
 
 **Intervention Assumptions:** These projections assume that current interventions will not change during the forecasted period.
 
