@@ -10,6 +10,7 @@
 - [Covid-19 Simulator Consortium](#Covid19Sim)
 - [Covid Act Now](#CAN)
 - [Discrete Dynamical Systems](#DDS)
+- [Facebook AI Research](#Facebook)
 - [Georgia Institute of Technology, Center for Health and Humanitarian Systems](#GT-CHHS)
 - [Georgia Institute of Technology, College of Computing](#GT-DeepCOVID)
 - [Google and Harvard School of Public Health](#Google-HSPH)
@@ -176,6 +177,17 @@
 **Methods:** Bayesian hierarchical model
 
 **Forecasts submitted:** Cases, deaths
+
+
+### [Facebook AI Research](https://ai.facebook.com/research/publications/neural-relational-autoregression-for-high-resolution-covid-19-forecasting/)<a name="Facebook"/>
+
+**Model name:** Facebook
+
+**Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** A machine learning model, combined with an auto-regressive model
+
+**Forecasts submitted:** Cases
 
 
 ### [Georgia Institute of Technology, Center for Health and Humanitarian Systems](https://github.com/pkeskinocak/COVID19GA) <a name="GT-CHHS"/>
@@ -427,7 +439,7 @@
 
 **Methods:** SEIR model on a spatiotemporal network
 
-**Forecasts submitted:** Deaths
+**Forecasts submitted:** Cases, deaths
 
 
 ### [Northeastern University, Laboratory for the Modeling of Biological and Socio-technical Systems](https://covid19.gleamproject.org/) <a name="MOBS"/>
