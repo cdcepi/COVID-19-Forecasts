@@ -450,7 +450,7 @@
 
 **Methods:** Metapopulation, age-structured SLIR model
 
-**Forecasts submitted:** Deaths
+**Forecasts submitted:** Hospitalizations, deaths
 
 
 ### Notre Dame University <a name="NotreDame"/>
