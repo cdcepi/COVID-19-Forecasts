@@ -42,7 +42,7 @@
 - [Qi-Jun Hong](#QJHong)
 - [Rensselaer Polytechnic Institute and University of Washington](#RPI-UW)
 - [Robert Walraven](#ESG)
-- [SignatureScience](#SignatureSicence)
+- [SignatureScience](#SignatureScience)
 - [State University of New York, Upstate Medical University](#SUNY)
 - [Steve Hortman](#STH)
 - [Steve McConnell](#CovidComplete)
@@ -561,7 +561,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [State University of New York, Upstate Medical University](ylzhang29.github.io/UpstateSU-GRU-Covid)<a name="SUNY">
+### [State University of New York, Upstate Medical University](https://ylzhang29.github.io/UpstateSU-GRU-Covid/)<a name="SUNY"> 
 
 **Model name**: SUNY
 
