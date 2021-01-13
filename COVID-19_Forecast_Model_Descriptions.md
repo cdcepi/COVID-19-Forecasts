@@ -42,7 +42,10 @@
 - [Qi-Jun Hong](#QJHong)
 - [Rensselaer Polytechnic Institute and University of Washington](#RPI-UW)
 - [Robert Walraven](#ESG)
+- [SignatureScience](#SignatureSicence)
+- [State University of New York, Upstate Medical University](#SUNY)
 - [Steve Hortman](#STH)
+- [Steve McConnell](#CovidComplete)
 - [Texas Tech University](#TTU)
 - [University of Arizona](#UA)
 - [University of California, Los Angeles](#UCLA)
@@ -547,6 +550,28 @@
 **Forecasts submitted:** Cases, deaths
 
 
+### [Signature Science](http://www.signaturescience.com/)<a name="SignatureScience">
+
+**Model name:** SignatureScience
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Autoregressive time-series model
+
+**Forecasts submitted:** Cases, deaths
+
+
+### [State University of New York, Upstate Medical University](ylzhang29.github.io/UpstateSU-GRU-Covid)<a name="SUNY">
+
+**Model name**: SUNY
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Machine learning
+
+**Forecasts submitted:** Cases, deaths
+
+
 ### [Steve Horstman](https://public.tableau.com/profile/covid19model#!/vizhome/COVID-19DeathProjections/LatestUSStateCOVID-19DeathModels/) <a name="STH">
 
 **Model name:** STH
@@ -554,6 +579,17 @@
 **Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
 
 **Methods:** Statistical growth model
+
+**Forecasts submitted:** Deaths
+
+
+### [Steve McConnell](https://stevemcconnell.com/covidcomplete/)<a name="CovidComplete">
+
+**Model name:** CovidComplete
+
+**Intervention assumptions:**  This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** Statistical prediction model
 
 **Forecasts submitted:** Deaths
 
