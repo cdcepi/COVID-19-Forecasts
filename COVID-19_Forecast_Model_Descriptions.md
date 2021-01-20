@@ -30,6 +30,7 @@
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
+- [Massachusetts Institute of Technology, Institute for Data, Systems, and Society](#MIT-ISOLAT)
 - [Massachusetts Institute of Technology, Laboratory for Computational Physiology](#MIT-LCP)
 - [Massachusetts Institute of Technology, Operations Research Center](#MIT-ORC)
 - [Microsoft AI](#Microsoft)
@@ -408,6 +409,17 @@
 **Intervention Assumptions:** The projections assume that current interventions will remain in place indefinitely.
 
 **Methods:** SIR model 
+
+**Forecasts submitted:** Cases, deaths 
+
+
+### [Massachusetts Institute of Technology, Institute for Data, Systems, and Society](https://covidpredictions.mit.edu/) <a name="MIT-ISOLAT"/>
+
+**Model name:** MIT-ISOLAT
+
+**Intervention Assumptions:** The projections assume that current interventions will remain in place indefinitely.
+
+**Methods:** Mixture model
 
 **Forecasts submitted:** Cases, deaths 
 
