@@ -44,7 +44,7 @@
 - [Rensselaer Polytechnic Institute and University of Washington](#RPI-UW)
 - [Robert Walraven](#ESG)
 - [SignatureScience](#SignatureScience)
-- [State University of New York, Upstate Medical University](#SUNY)
+- [State University of New York, Upstate Medical University & Syracuse University](#UpstateSU)
 - [Steve Hortman](#STH)
 - [Steve McConnell](#CovidComplete)
 - [Texas Tech University](#TTU)
@@ -573,9 +573,9 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [State University of New York, Upstate Medical University](https://ylzhang29.github.io/UpstateSU-GRU-Covid/)<a name="SUNY"> 
+### [State University of New York, Upstate Medical University & Syracuse University](https://ylzhang29.github.io/UpstateSU-GRU-Covid/)<a name="UpstateSU"> 
 
-**Model name**: SUNY
+**Model name**: UpstateSU
 
 **Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
 
