@@ -11,7 +11,7 @@
 - [Covid Act Now](#CAN)
 - [Discrete Dynamical Systems](#DDS)
 - [Facebook AI Research](#Facebook)
-- [Federal Reserve Bank of San Francisco/Wilson](#Econometric)
+- [Federal Reserve Bank of San Francisco/Wilson](#FRBSF-Wilson)
 - [Georgia Institute of Technology, Center for Health and Humanitarian Systems](#GT-CHHS)
 - [Georgia Institute of Technology, College of Computing](#GT-DeepCOVID)
 - [Google and Harvard School of Public Health](#Google-HSPH)
@@ -195,9 +195,9 @@
 **Forecasts submitted:** Cases
 
 
-### [Federal Reserve Bank of San Francisco/Wilson](https://www.frbsf.org/economic-research/indicators-data/covid-19-forecasts-by-county/) <a name = "Econometric"/>
+### [Federal Reserve Bank of San Francisco/Wilson](https://www.frbsf.org/economic-research/indicators-data/covid-19-forecasts-by-county/) <a name="FRBSF-Wilson"/>
 
-**Model name:** Econometric
+**Model name:** FRBSF-Wilson
 
 **Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward. 
 
