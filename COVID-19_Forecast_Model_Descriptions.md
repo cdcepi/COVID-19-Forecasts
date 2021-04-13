@@ -346,7 +346,7 @@
 
 **Model name:** JHU-IDD
 
-**Intervention Assumptions:** This model assumes that the effectiveness of interventions is reduced after shelter-in-place orders are lifted.
+**Intervention Assumptions:** These projections assume that current interventions will not change during the forecasted period.
 
 **Hospitalization Assumptions:** Daily hospitalizations are estimated from predictions of daily cases. A standard proportion is applied to all states.
 
@@ -451,7 +451,7 @@
 
 **Model name:** MIT-ORC
 
-**Intervention Assumptions:** The projections assume that current interventions will remain in place indefinitely.
+**Intervention Assumptions:** The projections assume that interventions will be reinstated if transmission reaches certain thresholds.
 
 **Methods:** SEIR model 
 
