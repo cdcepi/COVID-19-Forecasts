@@ -30,6 +30,7 @@
 - [LockNQuay](#LNQ)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
+- [Masaryk University](#Masaryk University)
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
 - [Massachusetts Institute of Technology, Institute for Data, Systems, and Society](#MIT-ISOLAT)
 - [Massachusetts Institute of Technology, Laboratory for Computational Physiology](#MIT-LCP)
@@ -412,6 +413,17 @@
 **Methods:** Statistical dynamical growth model accounting for population susceptibility
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
+
+
+### [Masaryk University](https://sites.google.com/mail.muni.cz/covid19stat) <a name='Masaryk University'/>
+
+**Model name:** Masaryk Universit
+
+**Intervention assumptions:** The projections assume that current interventions will remain in place indefinitely. 
+
+**Methods:** An auto-regressive model
+
+**Forecasts submitted:** Cases, deaths
 
 
 ### [Massachusetts Institute of Technology, COVID-19 Policy Alliance](https://www.covidalliance.com/) <a name="MIT-CovAlliance"/>
