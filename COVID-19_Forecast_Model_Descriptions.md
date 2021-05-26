@@ -31,6 +31,7 @@
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
 - [Masaryk University](#Masaryk University)
+- [Massachusetts Institute of Technology, Cassandra](#MIT-Cassandra)
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
 - [Massachusetts Institute of Technology, Institute for Data, Systems, and Society](#MIT-ISOLAT)
 - [Massachusetts Institute of Technology, Laboratory for Computational Physiology](#MIT-LCP)
@@ -242,7 +243,7 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [IEM](https://iem-modeling.com/)<a name="IEM">
+### [IEM](https://iem-modeling.com/)<a name="IEM"/>
 
 **Model name:** IEM
 
@@ -426,6 +427,17 @@
 **Forecasts submitted:** Cases, deaths
 
 
+### [Massachusetts Institute of Technology, Cassandra](https://github.com/oskali/mit_cassandra/) <a name="MIT-Cassandra"/>
+
+**Model name:** MIT-Cassandra
+
+**Intervention Assumptions:** The projections assume that current interventions will remain in place indefinitely.
+
+**Methods:** This forecast is an ensemble of four different models: a Markov Decision Processes model, two different time series models, and C-SEIRD model
+
+**Forecasts submitted:** Cases
+
+
 ### [Massachusetts Institute of Technology, COVID-19 Policy Alliance](https://www.covidalliance.com/) <a name="MIT-CovAlliance"/>
 
 **Model name:** MIT-CovAlliance
@@ -509,7 +521,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Oliver Wyman](https://pandemicnavigator.oliverwyman.com/) <a name="OliverWyman">
+### [Oliver Wyman](https://pandemicnavigator.oliverwyman.com/) <a name="OliverWyman"/>
 
 **Model name:** Oliver Wyman
 
@@ -520,7 +532,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [OneQuietNight](https://github.com/One-Quiet-Night/COVID-19-forecast/)<a name="OneQuietNight">
+### [OneQuietNight](https://github.com/One-Quiet-Night/COVID-19-forecast/)<a name="OneQuietNight"/>
 
 **Model name:** OneQuietNight
 
@@ -531,7 +543,7 @@
 **Forecasts submitted:** Cases
 
 
-### [Pandemic Central](https://itsonit.com) <a name="PandemicCentral">
+### [Pandemic Central](https://itsonit.com) <a name="PandemicCentral"/>
 
 **Model name:** PandemicCentral
 
@@ -542,7 +554,7 @@
 **Forecasts submitted:** Cases
 
 
-### [Predictive Science Inc.](https://github.com/predsci/DRAFT) <a name="PSI">
+### [Predictive Science Inc.](https://github.com/predsci/DRAFT) <a name="PSI"/>
 
 **Model name:** PSI
 
@@ -553,7 +565,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Qi-Jun Hong](https://qjhong.github.io/) <a name="QJHong">
+### [Qi-Jun Hong](https://qjhong.github.io/) <a name="QJHong"/>
 
 **Model name:** QJHong
 
@@ -564,7 +576,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [Rensselaer Polytechnic Institute and University of Washington](http://medrxiv.org/content/10.1101/2020.07.25.20162016v1) <a name="RPI-UW">
+### [Rensselaer Polytechnic Institute and University of Washington](http://medrxiv.org/content/10.1101/2020.07.25.20162016v1) <a name="RPI-UW"/>
 
 **Model name:** RPI-UW
 
@@ -575,7 +587,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Robert Walraven](http://rwalraven.com/COVID19/) <a name="ESG">
+### [Robert Walraven](http://rwalraven.com/COVID19/) <a name="ESG"/>
 
 **Model name:** ESG
 
@@ -586,7 +598,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [Signature Science](http://www.signaturescience.com/)<a name="SignatureScience">
+### [Signature Science](http://www.signaturescience.com/)<a name="SignatureScience"/>
 
 **Model name:** SignatureScience
 
@@ -597,7 +609,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [State University of New York, Upstate Medical University & Syracuse University](https://ylzhang29.github.io/UpstateSU-GRU-Covid/)<a name="UpstateSU"> 
+### [State University of New York, Upstate Medical University & Syracuse University](https://ylzhang29.github.io/UpstateSU-GRU-Covid/)<a name="UpstateSU"/> 
 
 **Model name**: UpstateSU
 
@@ -608,7 +620,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [Steve Horstman](https://public.tableau.com/profile/covid19model#!/vizhome/COVID-19DeathProjections/LatestUSStateCOVID-19DeathModels/) <a name="STH">
+### [Steve Horstman](https://public.tableau.com/profile/covid19model#!/vizhome/COVID-19DeathProjections/LatestUSStateCOVID-19DeathModels/) <a name="STH"/>
 
 **Model name:** STH
 
@@ -619,7 +631,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Steve McConnell](https://stevemcconnell.com/covidcomplete/)<a name="CovidComplete">
+### [Steve McConnell](https://stevemcconnell.com/covidcomplete/)<a name="CovidComplete"/>
 
 **Model name:** CovidComplete
 
@@ -759,7 +771,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [University of Michigan](https://gitlab.com/sabcorse/covid-19-collaboration) <a name="UM">
+### [University of Michigan](https://gitlab.com/sabcorse/covid-19-collaboration) <a name="UM"/>
 
 **Model name:** UM
 
@@ -770,7 +782,7 @@
 **Forecasts submitted:** Cases, deaths
 
 
-### [University of Southern California](https://scc-usc.github.io/ReCOVER-COVID-19/#/) <a name="USC">
+### [University of Southern California](https://scc-usc.github.io/ReCOVER-COVID-19/#/) <a name="USC"/>
 
 **Model name:** USC
 
@@ -794,7 +806,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [University of Virginia](https://biocomplexity.virginia.edu/)<a name="UVA">
+### [University of Virginia](https://biocomplexity.virginia.edu/)<a name="UVA"/>
 
 **Model name:** UVA
 
@@ -829,7 +841,7 @@
 **Forecasts submitted:** Deaths
 
 
-### [Wadhwani AI](https://www.wadhwaniai.org/)<a name="Wadhwani">
+### [Wadhwani AI](https://www.wadhwaniai.org/)<a name="Wadhwani"/>
 
 **Model name:** Wadhwani
 
