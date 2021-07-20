@@ -1,5 +1,6 @@
 ## Models
 
+- [AIpert](#AIpert)
 - [Auquan Data Science](#Auquan)
 - [Berkeley Yu Group](#Yu_Group)
 - [Bob Pagano](#BPagano)
@@ -71,6 +72,17 @@
 
 
 ## Model Descriptions
+
+### [AIpert](https://github.com/QuocTran/COVID-19/) <a name="AIpert"/>
+
+**Model name:** AIpert
+
+**Intervention assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.  
+
+**Methods:** Piecewise log linear regression model
+
+**Forecasts submitted:** Deaths
+
 
 ### [Auquan Data Science](https://covid19-infection-model.auquan.com/) <a name="Auquan"/>
 
