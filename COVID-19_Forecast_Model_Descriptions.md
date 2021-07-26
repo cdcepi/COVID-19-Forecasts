@@ -428,9 +428,9 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [Masaryk University](https://krausstat.shinyapps.io/covid19global/) <a name='Masaryk University'/>
+### [Masaryk University](https://krausstat.shinyapps.io/covid19global/) <a name='Masaryk'/>
 
-**Model name:** Masaryk University
+**Model name:** Masaryk
 
 **Intervention assumptions:** The projections assume that current interventions will remain in place indefinitely. 
 
