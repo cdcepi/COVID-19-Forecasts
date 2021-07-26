@@ -31,7 +31,7 @@
 - [LockNQuay](#LNQ)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
-- [Masaryk University](#Masaryk University)
+- [Masaryk University](#Masaryk)
 - [Massachusetts Institute of Technology, Cassandra](#MIT-Cassandra)
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
 - [Massachusetts Institute of Technology, Institute for Data, Systems, and Society](#MIT-ISOLAT)
@@ -428,9 +428,9 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [Masaryk University](https://sites.google.com/mail.muni.cz/covid19stat) <a name='Masaryk University'/>
+### [Masaryk University](https://krausstat.shinyapps.io/covid19global/) <a name='Masaryk University'/>
 
-**Model name:** Masaryk Universit
+**Model name:** Masaryk University
 
 **Intervention assumptions:** The projections assume that current interventions will remain in place indefinitely. 
 
