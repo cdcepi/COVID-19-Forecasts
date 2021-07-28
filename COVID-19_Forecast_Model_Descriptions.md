@@ -24,6 +24,7 @@
 - [IQVIA Analytics Center of Excellence](#IQVIA)
 - [John Burant](#JCB)
 - [Johns Hopkins University, Applied Physics Lab](#JHU-APL)
+- [Johns Hopkins University, Applied Physics Lab](#JHUAPL-Gecko)
 - [Johns Hopkins University, Center for Systems Science and Engineering](#JHU-CSSE)
 - [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU-IDD)
 - [Johns Hopkins University, the University of North Carolina, and Google](#JHU-UNC-Google)
@@ -343,6 +344,17 @@
 **Methods:** Metapopulation SEIR model
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
+
+
+### [Johns Hopkins University, Applied Physics Lab](https://gitlab.jhuapl.edu/panagmj1/gecko-sarima) <a name="JHUAPL-Gecko"/>
+
+**Model name:** JHUAPL-Gecko
+
+**Intervention Assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** SARIMA time series model (1,1,0)x(1,1,0,7) with anomaly detector applied to confirmed hospital admissions since 09/01/2020. 
+
+**Forecasts submitted:** Hospitalizations
 
 
 ### [Johns Hopkins University,  Center for Systems Science and Engineering](https://systems.jhu.edu/research/public-health/predicting-covid-19-risk/) <a name="JHU-CSSE"/>
