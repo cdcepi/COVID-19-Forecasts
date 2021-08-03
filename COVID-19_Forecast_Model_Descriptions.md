@@ -346,7 +346,7 @@
 **Forecasts submitted:** Cases, hospitalizations, deaths
 
 
-### [Johns Hopkins University, Applied Physics Lab](https://gitlab.jhuapl.edu/panagmj1/gecko-sarima) <a name="JHUAPL-Gecko"/>
+### [Johns Hopkins University, Applied Physics Lab](https://github.com/reichlab/covid19-forecast-hub/blob/master/data-processed/JHUAPL-Gecko/metadata-JHUAPL-Gecko.txt) <a name="JHUAPL-Gecko"/>
 
 **Model name:** JHUAPL-Gecko
 
