@@ -60,6 +60,7 @@
 - [University of California, Santa Barbara](#UCSB)
 - [University of Central Florida](#UCF)
 - [University of Chicago](#UChicago)
+- [University of Colorado Boulder] (#CUBoulder)
 - [University of Georgia, Center for the Ecology of Infectious Disease](#UGA-CEID)
 - [University of Geneva / Swiss Data Science Center](#Geneva)
 - [University of Massachusetts, Amherst](#UMass)
@@ -756,6 +757,17 @@
 **Methods:** SEIR model
 
 **Forecasts submitted:** Deaths
+
+
+### [University of Colorado Boulder](https://geohai.github.io/covid-lstm/) <a name="CUBoulder"/>
+
+**Model name:** CUBoulder
+
+**Intervention assumptions:** The projections assume that social distancing policies in place at the date of calibration are extended for the future weeks.
+
+**Methods:** Our model is a stacked LSTM deep learning-based model using a multivariate time series input with a temporal lag of 9 weeks.
+
+**Forecasts submitted:** Cases
 
 
 ### [University of Georgia, Center for the Ecology of Infectious Disease](https://github.com/e3bo/random-walks) <a name="UGA-CEID"/>
