@@ -60,7 +60,7 @@
 - [University of California, Santa Barbara](#UCSB)
 - [University of Central Florida](#UCF)
 - [University of Chicago](#UChicago)
-- [University of Colorado Boulder] (#CUBoulder)
+- [University of Colorado Boulder](#CUBoulder)
 - [University of Georgia, Center for the Ecology of Infectious Disease](#UGA-CEID)
 - [University of Geneva / Swiss Data Science Center](#Geneva)
 - [University of Massachusetts, Amherst](#UMass)
