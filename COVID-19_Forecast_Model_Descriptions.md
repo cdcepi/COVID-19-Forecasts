@@ -32,6 +32,7 @@
 - [LockNQuay](#LNQ)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
+- [Los Alamos National Laboratory and Northern Arizona University](#LANL_NAU)
 - [Masaryk University](#Masaryk)
 - [Massachusetts Institute of Technology, Cassandra](#MIT-Cassandra)
 - [Massachusetts Institute of Technology, COVID-19 Policy Alliance](#MIT-CovAlliance)
@@ -439,6 +440,19 @@
 **Methods:** Statistical dynamical growth model accounting for population susceptibility
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
+
+
+### [Los Alamos National Laboratory and Northern Arizona University](https://github.com/lanl/COVID-19-Predictions) <a name="LANL_NAU"/>
+
+**Model name:** LANL_NAU
+
+**Intervention assumptions:** This model assumes interventions in place on the first day of the forecast will remain in place for the next four weeks. 
+
+**Hospitalization Assumptions:** None
+
+**Methods:** Compartmental model consisting of ordinary differential equations (ODEs) describing the dynamics of 40 populations (state variables). The model quantified the impact of non-pharmaceutical interventions on COVID-19 transmission dynamics, and captures vaccination of susceptible and recovered persons and infected non-quarantined persons without symptoms at a time-varying per capita rate.
+
+**Forecasts submitted:** Cases
 
 
 ### [Masaryk University](https://krausstat.shinyapps.io/covid19global/) <a name='Masaryk'/>
