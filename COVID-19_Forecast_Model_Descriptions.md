@@ -808,15 +808,17 @@
 
 ### [University of Massachusetts, Amherst](https://reichlab.io/) <a name="UMass"/>
 
-**Model names:** UMass-MB, Ensemble
+**Model names:** UMass-MB, Ensemble, UMass-TE
 
 **Intervention assumptions:**
 -	UMass-MB: These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
 -	Ensemble: The ensemble forecasts include all submitted forecasts, derived from models that assume certain social distancing measures will continue and models that assume those measures will not continue. 
+-	UMass-TE: These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
 
 **Methods:**
 -	UMass-MB: Mechanistic Bayesian compartment model
 -	Ensemble: The ensemble is a combination of 4 to 20 models, depending on the availability of forecasts for each location. To ensure consistency, the ensemble includes only models with 4 week-ahead forecasts.
+-	UMass-TE: Trends Ensemble model
 
 **Forecasts submitted:** Cases, deaths
 
