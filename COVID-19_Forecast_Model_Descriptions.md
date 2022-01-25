@@ -30,6 +30,7 @@
 - [Johns Hopkins University, the University of North Carolina, and Google](#JHU-UNC-Google)
 - [Karlen Working Group](#Karlen)
 - [LockNQuay](#LNQ)
+- [Loïc Pottier](#Prolix)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
 - [Los Alamos National Laboratory](#LANL)
 - [Los Alamos National Laboratory and Northern Arizona University](#LANL_NAU)
@@ -416,6 +417,17 @@
 **Methods:** Machine learning
 
 **Forecasts submitted:** Cases, deaths
+
+
+### [Loïc Pottier](https://cp.lpmib.fr/medias/covid19/_synthese.html) <a name="Prolix"/>
+
+**Model name:** Prolix
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Offsets obtained by correlations, best linear approximation of reproduction rates (using vaccination  approximation) by least euclidean distance, and linear prediction. 
+
+**Forecasts submitted:** Cases, hospitalizations, and deaths
 
 
 ### [London School of Hygiene and Tropical Medicine](https://github.com/epiforecasts/covid-us-forecasts) <a name="LSHTM"/>
