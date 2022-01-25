@@ -46,6 +46,7 @@
 - [OneQuietNight](#OneQuietNight)
 - [Pandemic Central](#PandemicCentral)
 - [Predictive Science Inc.](#PSI)
+- [Loïc Pottier](#prolix)
 - [Qi-Jun Hong](#QJHong)
 - [Rensselaer Polytechnic Institute and University of Washington](#RPI-UW)
 - [Robert Walraven](#ESG)
@@ -602,6 +603,17 @@
 **Methods:** Stochastic SEIRX model
 
 **Forecasts submitted:** Deaths
+
+
+### [Loïc Pottier](https://cp.lpmib.fr/medias/covid19/_synthese.html) <a name="prolix"/>
+
+**Model name:** prolix
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** Offsets obtained by correlations, best linear approximation of reproduction rates (using vaccination  approximation) by least euclidean distance, and linear prediction. 
+
+**Forecasts submitted:** Cases, hospitalizations, and deaths
 
 
 ### [Qi-Jun Hong](https://qjhong.github.io/) <a name="QJHong"/>
