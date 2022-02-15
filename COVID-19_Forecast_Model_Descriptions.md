@@ -47,6 +47,7 @@
 - [OneQuietNight](#OneQuietNight)
 - [Pandemic Central](#PandemicCentral)
 - [Predictive Science Inc.](#PSI)
+- [Predictive Science Inc.](#PSI-DICE)
 - [Qi-Jun Hong](#QJHong)
 - [Rensselaer Polytechnic Institute and University of Washington](#RPI-UW)
 - [Robert Walraven](#ESG)
@@ -614,6 +615,17 @@
 **Methods:** Stochastic SEIRX model
 
 **Forecasts submitted:** Deaths
+
+
+### [Predictive Science Inc.](https://github.com/predsci/DICE4) <a name="PSI-DICE"/>
+
+**Model name:** PSI-DICE
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:** SEIR model
+
+**Forecasts submitted:** Hospitalizations
 
 
 ### [Qi-Jun Hong](https://qjhong.github.io/) <a name="QJHong"/>
