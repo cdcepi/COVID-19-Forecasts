@@ -22,6 +22,7 @@
 - [Institute of Health Metrics and Evaluation](#IHME)
 - [Iowa State University](#ISU)
 - [IQVIA Analytics Center of Excellence](#IQVIA)
+- [The Hong Kong University of Science and Technology](#HKUST-DNN)
 - [John Burant](#JCB)
 - [Johns Hopkins University, Applied Physics Lab](#JHU-APL)
 - [Johns Hopkins University, Applied Physics Lab](#JHUAPL-Gecko)
@@ -258,6 +259,17 @@
 **Methods:**  SEIR model fit with machine learning
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
+
+
+### [The Hong Kong University of Science and Technology](https://cfong32.github.io/HKUST-DNN/)<a name="HKUST-DNN"/>
+
+**Model name:** HKUST-DNN
+
+**Intervention assumptions:** These projections assume that current interventions will not change during the forecasted period.
+
+**Methods:**  Deep neural networks trained on observed deaths, cases, and hospitalizations to forecast state-level cumulative deaths
+
+**Forecasts submitted:** Deaths
 
 
 ### [IEM](https://iem-modeling.com/)<a name="IEM"/>
