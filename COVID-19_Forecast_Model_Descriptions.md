@@ -30,6 +30,7 @@
 - [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU-IDD)
 - [Johns Hopkins University, the University of North Carolina, and Google](#JHU-UNC-Google)
 - [Karlen Working Group](#Karlen)
+- [Lehigh University Computational Uncertainty Lab](#LUcompUncertLab)
 - [LockNQuay](#LNQ)
 - [Loïc Pottier](#Prolix)
 - [London School of Hygiene and Tropical Medicine](#LSHTM)
@@ -478,6 +479,18 @@
 **Methods:** Compartmental model consisting of ordinary differential equations (ODEs) describing the dynamics of 40 populations (state variables). The model quantified the impact of non-pharmaceutical interventions on COVID-19 transmission dynamics, and captures vaccination of susceptible and recovered persons and infected non-quarantined persons without symptoms at a time-varying per capita rate.
 
 **Forecasts submitted:** Cases
+
+### [Lehigh University Computational Uncertainty Lab](https://github.com/computationalUncertaintyLab) <a name='LUcompUncertLab'/>
+
+**Model name:** LUcompUncertLab
+
+**Intervention assumptions:** None
+
+**Hospitalization Assumptions:** None
+
+**Methods:** A Bayesian Vector Auto Regression model
+
+**Forecasts submitted:** Hospitalizations, deaths
 
 
 ### [Masaryk University](https://krausstat.shinyapps.io/covid19global/) <a name='Masaryk'/>
