@@ -871,8 +871,7 @@
 -	UMass-TE: Trends Ensemble model
 -	UMass-sarix: Equally weighted ensemble of simple time-series baseline models. As of 2022-04-25, uses only past hospitalizations, no covariates.
 
-**Forecasts submitted:** Cases, deaths
--UMass-sarix: Hospitalizations
+**Forecasts submitted:** Cases, hospitalizations, deaths
 
 
 ### [University of Michigan](https://gitlab.com/sabcorse/covid-19-collaboration) <a name="UM"/>
