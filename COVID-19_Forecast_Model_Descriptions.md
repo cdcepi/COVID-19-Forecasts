@@ -857,18 +857,20 @@
 
 ### [University of Massachusetts, Amherst](https://reichlab.io/) <a name="UMass"/>
 
-**Model names:** UMass-MB, Ensemble, UMass-TE, UMass-sarix
+**Model names:** UMass-GBQ, UMass-MB, Ensemble, UMass-TE, UMass-sarix
 
 **Intervention assumptions:**
+-	UMass-GBQ: These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
 -	UMass-MB: These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
 -	Ensemble: The ensemble forecasts include all submitted forecasts, derived from models that assume certain social distancing measures will continue and models that assume those measures will not continue. 
 -	UMass-TE: These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
 -	UMass-sarix: These projections do not make any specific assumptions about which interventions have been implemented or will remain in place.
 
 **Methods:**
--	UMass-MB: Mechanistic Bayesian compartment model
+-	UMass-GBQ: Gradient boosting for the median, followed by conformal prediction to get quantiles.
+-	UMass-MB: Mechanistic Bayesian compartment model.
 -	Ensemble: The ensemble is a combination of 4 to 20 models, depending on the availability of forecasts for each location. To ensure consistency, the ensemble includes only models with 4 week-ahead forecasts.
--	UMass-TE: Trends Ensemble model
+-	UMass-TE: Trends Ensemble model.
 -	UMass-sarix: Equally weighted ensemble of simple time-series baseline models. As of 2022-04-25, uses only past hospitalizations, no covariates.
 
 **Forecasts submitted:** Cases, hospitalizations, deaths
