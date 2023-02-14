@@ -26,6 +26,7 @@
 - [John Burant](#JCB)
 - [Johns Hopkins University, Applied Physics Lab](#JHU-APL)
 - [Johns Hopkins University, Applied Physics Lab](#JHUAPL-Gecko)
+- [Johns Hopkins University, Applied Physics Lab, Testing and Diagnostic Working Group](#JHUAPLTDWG-ICATTML)
 - [Johns Hopkins University, Center for Systems Science and Engineering](#JHU-CSSE)
 - [Johns Hopkins University, Infectious Disease Dynamics Lab](#JHU-IDD)
 - [Johns Hopkins University, the University of North Carolina, and Google](#JHU-UNC-Google)
@@ -370,6 +371,17 @@
 **Intervention Assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
 
 **Methods:** SARIMA time series model (1,1,0)x(1,1,0,7) with anomaly detector applied to confirmed hospital admissions since 09/01/2020. 
+
+**Forecasts submitted:** Hospitalizations
+
+
+### [Johns Hopkins University, Applied Physics Lab, Testing and Diagnostic Working Group](https://github.com/reichlab/covid19-forecast-hub/raw/master/data-processed/JHUAPLTDWG-ICATTML/metadata-JHUAPLTDWG-ICATTML.txt) <a name="JHUAPLTDWG-ICATTML"/>
+
+**Model name:** JHUAPLTDWG-ICATTML
+
+**Intervention Assumptions:** This model assumes that the effects of interventions are reflected in the observed data and will continue going forward.
+
+**Methods:** Ensemble of models forecasts provided with lagged data derived from the ICATT program, CELR tests, and wastewater surveillance. 
 
 **Forecasts submitted:** Hospitalizations
 
